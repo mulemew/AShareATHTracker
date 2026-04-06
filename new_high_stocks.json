@@ -5,7 +5,7 @@
     "name": "星辉环材",
     "board": "创业板",
     "today_high": 52.19,
-    "prev_ath": 49.294,
+    "prev_ath": 52.19,
     "prev_ath_date": "2022-01-28",
     "now_price": 46.72,
     "close_yesterday": 43.49,
@@ -45,15 +45,15 @@
     "broke_ma10_after_ath": false,
     "broke_ma20_after_ath": false,
     "industry": "塑料",
-    "concept": "新材料/化工原料/昨日打二板以上表现/昨日连板_含一字/昨日涨停_含一字",
-    "driving_concept": "新材料",
-    "driving_concept_rank": -1,
+    "concept": "新材料/化工原料/昨日打二板以上表现/昨日炸板",
+    "driving_concept": "昨日炸板",
+    "driving_concept_rank": 95,
     "recent_announcements": [
       "[2026-03-31] 股票交易异常波动公告",
       "[2026-04-02] 股票交易异常波动公告",
+      "[2026-04-03] 股票交易严重异常波动的公告",
       "[2026-03-30] 关于间接控股股东权益变动的提示性公告",
-      "[2026-03-30] 简式权益变动报告书(转让方)",
-      "[2026-03-30] 简式权益变动报告书(受让方)"
+      "[2026-03-30] 简式权益变动报告书(转让方)"
     ]
   },
   {
@@ -62,7 +62,7 @@
     "name": "亨通光电",
     "board": "主板",
     "today_high": 58.73,
-    "prev_ath": 55.8,
+    "prev_ath": 58.73,
     "prev_ath_date": "2026-03-31",
     "now_price": 58.05,
     "close_yesterday": 53.39,
@@ -106,11 +106,11 @@
     "driving_concept": "华为概念",
     "driving_concept_rank": -1,
     "recent_announcements": [
-      "[2026-03-20] 亨通光电关于控股股东部分股权质押公告",
       "[2026-03-24] 亨通光电关于控股股东部分股权质押公告",
       "[2026-03-26] 亨通光电第九届董事会第十四次会议决议公告",
       "[2026-03-26] 亨通光电关于新增为控股子公司提供担保的公告",
-      "[2026-03-26] 亨通光电关于召开2026年第一次临时股东会的通知"
+      "[2026-03-26] 亨通光电关于召开2026年第一次临时股东会的通知",
+      "[2026-03-28] 亨通光电关于实控人部分股权解除质押及控股股东部分股权质押公告"
     ]
   },
   {
@@ -119,7 +119,7 @@
     "name": "万邦德",
     "board": "主板",
     "today_high": 35.0,
-    "prev_ath": 34.73,
+    "prev_ath": 35.0,
     "prev_ath_date": "2026-03-31",
     "now_price": 34.05,
     "close_yesterday": 34.54,
@@ -173,7 +173,7 @@
     "name": "国晟科技",
     "board": "主板",
     "today_high": 30.97,
-    "prev_ath": 30.0,
+    "prev_ath": 30.97,
     "prev_ath_date": "2026-01-30",
     "now_price": 28.68,
     "close_yesterday": 29.16,
@@ -230,7 +230,7 @@
     "name": "华瑞股份",
     "board": "创业板",
     "today_high": 24.59,
-    "prev_ath": 22.5,
+    "prev_ath": 24.59,
     "prev_ath_date": "2026-01-30",
     "now_price": 24.59,
     "close_yesterday": 20.49,
@@ -270,7 +270,7 @@
     "broke_ma10_after_ath": false,
     "broke_ma20_after_ath": false,
     "industry": "电机Ⅲ",
-    "concept": "新能源车/特斯拉概念/参股新三板/军工/机器人概念",
+    "concept": "新能源车/特斯拉概念/参股新三板/军工/昨日首板",
     "driving_concept": "新能源",
     "driving_concept_rank": 56,
     "recent_announcements": [
@@ -283,7 +283,7 @@
     "name": "招商轮船",
     "board": "主板",
     "today_high": 21.31,
-    "prev_ath": 19.8,
+    "prev_ath": 21.31,
     "prev_ath_date": "2026-03-31",
     "now_price": 20.39,
     "close_yesterday": 19.47,
@@ -327,7 +327,7 @@
     "driving_concept": "油气资源",
     "driving_concept_rank": 52,
     "recent_announcements": [
-      "[2026-03-27] 招商轮船关于2025年度末期利润分配方案的公告",
+      "[2026-04-04] 招商轮船股票交易异常波动公告",
       "[2026-03-27] 招商轮船关于续聘会计师事务所的公告",
       "[2026-03-27] 招商轮船对招商局集团财务有限公司风险评估报告的公告",
       "[2026-03-27] 招商轮船第七届董事会第二十七次会议决议公告",
@@ -340,7 +340,7 @@
     "name": "智立方",
     "board": "创业板",
     "today_high": 117.5,
-    "prev_ath": 106.29,
+    "prev_ath": 117.5,
     "prev_ath_date": "2026-03-31",
     "now_price": 114.62,
     "close_yesterday": 103.31,
@@ -383,7 +383,10 @@
     "concept": "机器视觉/半导体概念/国产芯片/虚拟现实/苹果概念",
     "driving_concept": "半导体概念",
     "driving_concept_rank": -1,
-    "recent_announcements": []
+    "recent_announcements": [
+      "[2026-04-04] 关于公司控股股东、实际控制人的一致行动人股份减持计划届满的公告",
+      "[2026-04-03] 股票交易异常波动公告"
+    ]
   },
   {
     "code": "688307",
@@ -391,7 +394,7 @@
     "name": "中润光学",
     "board": "科创板",
     "today_high": 89.58,
-    "prev_ath": 80.5,
+    "prev_ath": 89.58,
     "prev_ath_date": "2026-03-31",
     "now_price": 86.99,
     "close_yesterday": 76.96,
@@ -448,7 +451,7 @@
     "name": "三生国健",
     "board": "科创板",
     "today_high": 96.6,
-    "prev_ath": 93.38,
+    "prev_ath": 96.6,
     "prev_ath_date": "2026-03-31",
     "now_price": 92.3,
     "close_yesterday": 90.38,
@@ -505,7 +508,7 @@
     "name": "腾景科技",
     "board": "科创板",
     "today_high": 340.14,
-    "prev_ath": 296.33,
+    "prev_ath": 340.14,
     "prev_ath_date": "2026-03-31",
     "now_price": 338.93,
     "close_yesterday": 284.28,
@@ -549,7 +552,6 @@
     "driving_concept": "无人驾驶",
     "driving_concept_rank": -1,
     "recent_announcements": [
-      "[2026-03-21] 腾景科技关于对外投资设立全资子公司的进展公告",
       "[2026-04-02] 腾景科技股份有限公司投资者关系活动记录(2026-003)"
     ]
   },
@@ -559,7 +561,7 @@
     "name": "德科立",
     "board": "科创板",
     "today_high": 247.21,
-    "prev_ath": 212.0,
+    "prev_ath": 247.21,
     "prev_ath_date": "2026-03-31",
     "now_price": 247.21,
     "close_yesterday": 206.01,
@@ -599,15 +601,15 @@
     "broke_ma10_after_ath": false,
     "broke_ma20_after_ath": false,
     "industry": "通信设备",
-    "concept": "基金重仓/通信技术/小盘股/CPO概念/百元股",
-    "driving_concept": "基金重仓",
+    "concept": "基金重仓/通信技术/小盘股/昨日首板/CPO概念",
+    "driving_concept": "昨日首板",
     "driving_concept_rank": -1,
     "recent_announcements": [
+      "[2026-04-04] 无锡市德科立光电子技术股份有限公司股票交易异常波动公告",
       "[2026-03-31] 无锡市德科立光电子技术股份有限公司2026年度“提质增效重回报”行动方案",
       "[2026-03-31] 无锡市德科立光电子技术股份有限公司关于继续开展远期结售汇业务的公告",
       "[2026-03-31] 容诚会计师事务所(特殊普通合伙)关于无锡市德科立光电子技术股份有限公司非经营性资金占用及其他关联资金往来情况专项说明",
-      "[2026-03-31] 无锡市德科立光电子技术股份有限公司董事会关于独立董事独立性情况的专项意见",
-      "[2026-03-31] 无锡市德科立光电子技术股份有限公司2025年度独立董事述职报告(李力)"
+      "[2026-03-31] 无锡市德科立光电子技术股份有限公司董事会关于独立董事独立性情况的专项意见"
     ]
   },
   {
@@ -616,7 +618,7 @@
     "name": "百奥赛图",
     "board": "科创板",
     "today_high": 115.0,
-    "prev_ath": 105.12,
+    "prev_ath": 115.0,
     "prev_ath_date": "2026-03-31",
     "now_price": 112.3,
     "close_yesterday": 103.5,
@@ -657,7 +659,7 @@
     "broke_ma20_after_ath": false,
     "industry": "医疗服务",
     "concept": "注册制次新股/AH股/百元股",
-    "driving_concept": "百元股",
+    "driving_concept": "注册制次新股",
     "driving_concept_rank": -1,
     "recent_announcements": [
       "[2026-03-27] 港股公告:自愿性公告",
@@ -673,7 +675,7 @@
     "name": "九州一轨",
     "board": "科创板",
     "today_high": 31.3,
-    "prev_ath": 30.17,
+    "prev_ath": 31.3,
     "prev_ath_date": "2026-03-31",
     "now_price": 31.3,
     "close_yesterday": 26.08,
@@ -713,9 +715,9 @@
     "broke_ma10_after_ath": false,
     "broke_ma20_after_ath": false,
     "industry": "轨交设备Ⅲ",
-    "concept": "噪声防治/专精特新",
-    "driving_concept": "噪声防治",
-    "driving_concept_rank": -1,
+    "concept": "昨日高换手/昨日首板/噪声防治/昨日涨停_含一字/专精特新",
+    "driving_concept": "昨日高换手",
+    "driving_concept_rank": 93,
     "recent_announcements": [
       "[2026-03-28] 北京九州一轨环境科技股份有限公司关于收购苏州晶禧半导体科技有限公司股权并增资暨开展新业务的公告",
       "[2026-03-28] 北京九州一轨环境科技股份有限公司关于对外投资设立合资公司的公告",
@@ -728,7 +730,7 @@
     "name": "光库科技",
     "board": "创业板",
     "today_high": 229.9,
-    "prev_ath": 212.26,
+    "prev_ath": 229.9,
     "prev_ath_date": "2026-03-31",
     "now_price": 222.96,
     "close_yesterday": 200.07,
@@ -785,7 +787,7 @@
     "name": "炬光科技",
     "board": "科创板",
     "today_high": 418.13,
-    "prev_ath": 408.49,
+    "prev_ath": 418.13,
     "prev_ath_date": "2026-02-27",
     "now_price": 391.14,
     "close_yesterday": 374.64,
@@ -829,7 +831,7 @@
     "driving_concept": "无人驾驶",
     "driving_concept_rank": -1,
     "recent_announcements": [
-      "[2026-03-20] 西安炬光科技股份有限公司关于签订募集资金专户存储三方监管协议的公告"
+      "[2026-04-04] 西安炬光科技股份有限公司关于自愿披露获得某欧洲知名汽车Tier1客户定点的进展的公告"
     ]
   },
   {
@@ -838,7 +840,7 @@
     "name": "长光华芯",
     "board": "科创板",
     "today_high": 249.79,
-    "prev_ath": 236.0,
+    "prev_ath": 249.79,
     "prev_ath_date": "2026-03-31",
     "now_price": 236.93,
     "close_yesterday": 216.55,
@@ -891,7 +893,7 @@
     "name": "咸亨国际",
     "board": "主板",
     "today_high": 26.58,
-    "prev_ath": 26.285,
+    "prev_ath": 26.58,
     "prev_ath_date": "2021-07-30",
     "now_price": 26.1,
     "close_yesterday": 25.07,
@@ -936,7 +938,6 @@
     "driving_concept_rank": -1,
     "recent_announcements": [
       "[2026-04-03] 关于股东减持股份计划结果公告",
-      "[2026-03-20] 投资者关系记录表(2026年3月20日)",
       "[2026-03-31] 关于股东权益变动触及1%刻度的提示性公告"
     ]
   },
@@ -946,7 +947,7 @@
     "name": "长飞光纤",
     "board": "主板",
     "today_high": 363.63,
-    "prev_ath": 338.8,
+    "prev_ath": 363.63,
     "prev_ath_date": "2026-03-31",
     "now_price": 352.5,
     "close_yesterday": 332.49,
@@ -1003,7 +1004,7 @@
     "name": "远东股份",
     "board": "主板",
     "today_high": 15.61,
-    "prev_ath": 15.48,
+    "prev_ath": 15.61,
     "prev_ath_date": "2026-02-27",
     "now_price": 15.61,
     "close_yesterday": 14.19,
@@ -1060,7 +1061,7 @@
     "name": "杰恩设计",
     "board": "创业板",
     "today_high": 44.0,
-    "prev_ath": 43.2,
+    "prev_ath": 44.0,
     "prev_ath_date": "2026-03-31",
     "now_price": 41.0,
     "close_yesterday": 42.1,
@@ -1113,7 +1114,7 @@
     "name": "法尔胜",
     "board": "主板",
     "today_high": 16.11,
-    "prev_ath": 15.99,
+    "prev_ath": 16.11,
     "prev_ath_date": "2026-03-31",
     "now_price": 16.01,
     "close_yesterday": 15.9,
@@ -1169,7 +1170,7 @@
     "name": "强瑞技术",
     "board": "创业板",
     "today_high": 164.1,
-    "prev_ath": 159.88,
+    "prev_ath": 164.1,
     "prev_ath_date": "2026-04-01",
     "now_price": 155.0,
     "close_yesterday": 150.5,
@@ -1264,7 +1265,7 @@
     "broke_ma10_after_ath": false,
     "broke_ma20_after_ath": false,
     "industry": "石油石化",
-    "concept": "新材料/昨日首板/液冷概念/算力概念/东数西算",
+    "concept": "新材料/液冷概念/算力概念/东数西算/专精特新",
     "driving_concept": "新材料",
     "driving_concept_rank": -1,
     "recent_announcements": [
@@ -1279,7 +1280,7 @@
     "name": "万凯新材",
     "board": "创业板",
     "today_high": 28.99,
-    "prev_ath": 27.77,
+    "prev_ath": 28.99,
     "prev_ath_date": "2026-03-31",
     "now_price": 28.13,
     "close_yesterday": 26.75,
@@ -1323,7 +1324,11 @@
     "driving_concept": "新材料",
     "driving_concept_rank": -1,
     "recent_announcements": [
-      "[2026-04-02] 关于2026年第一季度可转债转股情况的公告"
+      "[2026-04-04] 关于增加副总经理名额并修订《公司章程》的公告",
+      "[2026-04-04] 独立董事提名人声明与承诺(张雷宝)",
+      "[2026-04-04] 万凯新材-董事薪酬管理制度",
+      "[2026-04-04] 独立董事提名人声明与承诺(徐鼎一)",
+      "[2026-04-04] 关于董事会换届选举的公告"
     ]
   },
   {
@@ -1332,7 +1337,7 @@
     "name": "杭电股份",
     "board": "主板",
     "today_high": 30.1,
-    "prev_ath": 29.38,
+    "prev_ath": 30.1,
     "prev_ath_date": "2026-03-31",
     "now_price": 27.65,
     "close_yesterday": 27.88,
@@ -1443,7 +1448,7 @@
     "name": "燕京啤酒",
     "board": "主板",
     "today_high": 14.22,
-    "prev_ath": 14.17,
+    "prev_ath": 14.22,
     "prev_ath_date": "2025-06-30",
     "now_price": 13.87,
     "close_yesterday": 12.93,
@@ -1483,9 +1488,9 @@
     "broke_ma10_after_ath": false,
     "broke_ma20_after_ath": false,
     "industry": "食品饮料",
-    "concept": "基金重仓/创投/酿酒概念/味蕾经济/啤酒概念",
-    "driving_concept": "基金重仓",
-    "driving_concept_rank": -1,
+    "concept": "基金重仓/创投/酿酒概念/味蕾经济/昨日炸板",
+    "driving_concept": "昨日炸板",
+    "driving_concept_rank": 95,
     "recent_announcements": [
       "[2026-04-03] 2025年度业绩快报",
       "[2026-04-03] 2026年第一季度业绩预告"
@@ -1497,7 +1502,7 @@
     "name": "晨丰科技",
     "board": "主板",
     "today_high": 32.8,
-    "prev_ath": 32.78,
+    "prev_ath": 32.8,
     "prev_ath_date": "2026-04-01",
     "now_price": 31.17,
     "close_yesterday": 32.24,
@@ -1594,9 +1599,9 @@
     "broke_ma10_after_ath": false,
     "broke_ma20_after_ath": false,
     "industry": "塑料包装",
-    "concept": "",
-    "driving_concept": "塑料包装",
-    "driving_concept_rank": -1,
+    "concept": "昨日高换手",
+    "driving_concept": "昨日高换手",
+    "driving_concept_rank": 93,
     "recent_announcements": [
       "[2026-03-28] 关于对外投资设立全资子公司的进展公告",
       "[2026-03-31] 2026年第一次临时股东会法律意见书",

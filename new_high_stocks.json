@@ -5,7 +5,7 @@
     "name": "海正生材",
     "board": "科创板",
     "today_high": 26.35,
-    "prev_ath": 24.8,
+    "prev_ath": 26.35,
     "prev_ath_date": "2022-08-31",
     "now_price": 23.06,
     "close_yesterday": 24.3,
@@ -47,13 +47,10 @@
     "industry": "塑料",
     "concept": "降解塑料/3D打印/趋势股/百日新高 /历史新高 ",
     "driving_concept": "趋势股",
-    "driving_concept_rank": -1,
+    "driving_concept_rank": 35,
     "recent_announcements": [
       "[2026-09-24] 浙江海正生物材料股份有限公司股票交易异常波动公告",
-      "[2026-09-10] 浙江海正生物材料股份有限公司关于董事会完成换届选举及聘任高级管理人员、证券事务代表的公告",
-      "[2026-09-10] 北京康达(杭州)律师事务所关于浙江海正生物材料股份有限公司2026年第一次临时股东会的法律意见书",
-      "[2026-09-10] 浙江海正生物材料股份有限公司第八届董事会第一次会议决议公告",
-      "[2026-09-10] 浙江海正生物材料股份有限公司2026年第一次临时股东会决议公告"
+      "[2026-09-24] 688203投资者关系活动记录表(2026年9月24日)"
     ]
   },
   {
@@ -62,7 +59,7 @@
     "name": "华瓷股份",
     "board": "主板",
     "today_high": 29.5,
-    "prev_ath": 29.12,
+    "prev_ath": 29.5,
     "prev_ath_date": "2025-11-28",
     "now_price": 28.4,
     "close_yesterday": 28.31,
@@ -108,7 +105,8 @@
     "recent_announcements": [
       "[2026-09-16] 关于市场传闻的澄清及风险提示的公告",
       "[2026-09-17] 关于股票交易异常波动的公告",
-      "[2026-09-22] 关于股票交易异常波动的公告"
+      "[2026-09-22] 关于股票交易异常波动的公告",
+      "[2026-09-24] 关于股票交易异常波动的公告"
     ]
   },
   {
@@ -117,7 +115,7 @@
     "name": "通达创智",
     "board": "主板",
     "today_high": 39.78,
-    "prev_ath": 37.88,
+    "prev_ath": 39.78,
     "prev_ath_date": "2023-03-31",
     "now_price": 38.0,
     "close_yesterday": 37.53,
@@ -172,7 +170,7 @@
     "name": "先导基电",
     "board": "主板",
     "today_high": 52.58,
-    "prev_ath": 50.99,
+    "prev_ath": 52.58,
     "prev_ath_date": "2026-07-31",
     "now_price": 51.56,
     "close_yesterday": 47.8,
@@ -213,8 +211,8 @@
     "broke_ma20_after_ath": false,
     "industry": "半导体材料",
     "concept": "固态电池/半导体概念/国产芯片/OLED/小金属概念",
-    "driving_concept": "国产芯片",
-    "driving_concept_rank": -1,
+    "driving_concept": "固态电池",
+    "driving_concept_rank": 10,
     "recent_announcements": [
       "[2026-09-24] 关于《上海先导基电科技股份有限公司股票交易异常波动询证函》的回函",
       "[2026-09-24] 上海先导基电科技股份有限公司股票交易异常波动公告",
@@ -229,7 +227,7 @@
     "name": "鼎阳科技",
     "board": "科创板",
     "today_high": 122.0,
-    "prev_ath": 118.44,
+    "prev_ath": 122.0,
     "prev_ath_date": "2026-07-31",
     "now_price": 117.08,
     "close_yesterday": 114.98,
@@ -270,8 +268,8 @@
     "broke_ma20_after_ath": false,
     "industry": "通用设备",
     "concept": "6G概念/5G概念/苹果概念/百日新高 /历史新高 ",
-    "driving_concept": "百日新高",
-    "driving_concept_rank": -1,
+    "driving_concept": "5G概念",
+    "driving_concept_rank": 5,
     "recent_announcements": [
       "[2026-09-22] 鼎阳科技关于股票交易异常波动的公告",
       "[2026-09-19] 鼎阳科技第三届董事会第十次会议决议公告",
@@ -286,7 +284,7 @@
     "name": "立霸股份",
     "board": "主板",
     "today_high": 18.92,
-    "prev_ath": 17.71,
+    "prev_ath": 18.92,
     "prev_ath_date": "2026-07-31",
     "now_price": 17.58,
     "close_yesterday": 17.22,
@@ -327,8 +325,8 @@
     "broke_ma20_after_ath": false,
     "industry": "家用电器",
     "concept": "碳化硅/第三代半导体/国产芯片/QFII重仓/百日新高 ",
-    "driving_concept": "百日新高",
-    "driving_concept_rank": -1,
+    "driving_concept": "第三代半导体",
+    "driving_concept_rank": 32,
     "recent_announcements": [
       "[2026-09-24] 简式权益变动报告书(上海君和增持)",
       "[2026-09-17] 简式权益变动报告书(蒋达伟)"
@@ -340,7 +338,7 @@
     "name": "金健米业",
     "board": "主板",
     "today_high": 17.05,
-    "prev_ath": 16.88,
+    "prev_ath": 17.05,
     "prev_ath_date": "2020-08-31",
     "now_price": 16.49,
     "close_yesterday": 16.75,
@@ -394,7 +392,7 @@
     "name": "联域股份",
     "board": "主板",
     "today_high": 112.77,
-    "prev_ath": 108.41,
+    "prev_ath": 112.77,
     "prev_ath_date": "2026-09-17",
     "now_price": 110.15,
     "close_yesterday": 107.0,
@@ -449,7 +447,7 @@
     "name": "澳弘电子",
     "board": "主板",
     "today_high": 60.45,
-    "prev_ath": 58.6,
+    "prev_ath": 60.45,
     "prev_ath_date": "2026-09-18",
     "now_price": 60.2,
     "close_yesterday": 58.6,
@@ -491,7 +489,7 @@
     "industry": "元件",
     "concept": "商业航天/卫星互联网/新能源车/PCB/工业互联网",
     "driving_concept": "PCB",
-    "driving_concept_rank": -1,
+    "driving_concept_rank": 97,
     "recent_announcements": [
       "[2026-09-15] 澳弘电子股票交易异常波动公告",
       "[2026-09-16] 澳弘电子股票交易风险提示公告",
@@ -506,7 +504,7 @@
     "name": "威尔高",
     "board": "创业板",
     "today_high": 95.96,
-    "prev_ath": 92.8,
+    "prev_ath": 95.96,
     "prev_ath_date": "2026-09-17",
     "now_price": 88.78,
     "close_yesterday": 90.8,
@@ -548,7 +546,7 @@
     "industry": "元件",
     "concept": "数据中心/PCB/华为概念/QFII重仓/趋势股",
     "driving_concept": "趋势股",
-    "driving_concept_rank": -1,
+    "driving_concept_rank": 35,
     "recent_announcements": [
       "[2026-09-16] 关于公司股票交易异常波动的公告",
       "[2026-09-18] 关于2026年度向特定对象发行A股股票申请获得深圳证券交易所受理的公告",
@@ -563,7 +561,7 @@
     "name": "诺诚健华",
     "board": "科创板",
     "today_high": 35.0,
-    "prev_ath": 34.12,
+    "prev_ath": 35.0,
     "prev_ath_date": "2025-08-29",
     "now_price": 29.86,
     "close_yesterday": 33.4,
@@ -604,8 +602,8 @@
     "broke_ma20_after_ath": false,
     "industry": "化学制药",
     "concept": "AH股/高成长股/医药医疗风格/百日新高 /历史新高 ",
-    "driving_concept": "百日新高",
-    "driving_concept_rank": -1,
+    "driving_concept": "高成长股",
+    "driving_concept_rank": 27,
     "recent_announcements": [
       "[2026-09-15] 诺诚健华医药有限公司关于2024年科创板限制性股票激励计划预留授予部分第一个归属期归属结果暨股份上市的公告",
       "[2026-09-18] 港股公告:翌日披露报表",
@@ -661,7 +659,7 @@
     "industry": "元件",
     "concept": "商业航天/EDA概念/PCB/人工智能/趋势股",
     "driving_concept": "趋势股",
-    "driving_concept_rank": -1,
+    "driving_concept_rank": 35,
     "recent_announcements": [
       "[2026-09-14] 一博科技投资者关系活动记录表--2026年9月14日",
       "[2026-09-17] 一博科技投资者关系活动记录表--2026年9月17日",
@@ -676,7 +674,7 @@
     "name": "领先股份",
     "board": "主板",
     "today_high": 188.9,
-    "prev_ath": 185.57,
+    "prev_ath": 188.9,
     "prev_ath_date": "2026-09-16",
     "now_price": 175.89,
     "close_yesterday": 185.57,
@@ -716,10 +714,16 @@
     "broke_ma10_after_ath": true,
     "broke_ma20_after_ath": false,
     "industry": "半导体材料",
-    "concept": "半导体概念/核能核电/新材料/2026中报扭亏/题材股",
+    "concept": "半导体概念/核能核电/新材料/2026中报扭亏/百日新高 ",
     "driving_concept": "半导体概念",
-    "driving_concept_rank": -1,
-    "recent_announcements": []
+    "driving_concept_rank": 45,
+    "recent_announcements": [
+      "[2026-09-25] 关于为子公司提供担保预计的公告",
+      "[2026-09-25] 关于独立董事离任暨补选独立董事及调整董事会专门委员会委员的公告",
+      "[2026-09-25] 关于召开公司2026年第五次临时股东会的通知",
+      "[2026-09-25] 独立董事提名人声明(杨斌成)",
+      "[2026-09-25] 独立董事候选人声明(杨斌成)"
+    ]
   },
   {
     "code": "601998",
@@ -727,7 +731,7 @@
     "name": "中信银行",
     "board": "主板",
     "today_high": 9.12,
-    "prev_ath": 9.11,
+    "prev_ath": 9.12,
     "prev_ath_date": "2026-09-15",
     "now_price": 9.01,
     "close_yesterday": 9.05,
@@ -769,11 +773,12 @@
     "industry": "银行Ⅱ",
     "concept": "证金持股/机构重仓/AH股/低市净率/趋势股",
     "driving_concept": "趋势股",
-    "driving_concept_rank": -1,
+    "driving_concept_rank": 35,
     "recent_announcements": [
       "[2026-09-22] 中信银行股份有限公司关于赎回优先股的第一次提示性公告",
       "[2026-09-22] 中信银行股份有限公司关于拟赎回优先股的公告",
-      "[2026-09-23] 中信银行股份有限公司关于2026年金融债券(第一期)发行完毕的公告"
+      "[2026-09-23] 中信银行股份有限公司关于2026年金融债券(第一期)发行完毕的公告",
+      "[2026-09-25] H股公告-2026年中期報告"
     ]
   }
 ]

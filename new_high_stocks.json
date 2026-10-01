@@ -5,7 +5,7 @@
     "name": "华是科技",
     "board": "创业板",
     "today_high": 72.0,
-    "prev_ath": 65.0,
+    "prev_ath": 72.0,
     "prev_ath_date": "2026-09-01",
     "now_price": 69.75,
     "close_yesterday": 60.21,
@@ -60,7 +60,7 @@
     "name": "近岸蛋白",
     "board": "科创板",
     "today_high": 168.03,
-    "prev_ath": 148.88,
+    "prev_ath": 168.03,
     "prev_ath_date": "2026-09-23",
     "now_price": 160.39,
     "close_yesterday": 141.35,
@@ -100,7 +100,7 @@
     "broke_ma10_after_ath": false,
     "broke_ma20_after_ath": false,
     "industry": "其他生物制品",
-    "concept": "CRO/体外诊断概念/百日新高 /历史新高 /近期新高",
+    "concept": "CRO/体外诊断概念/题材股/百日新高 /历史新高 ",
     "driving_concept": "百日新高",
     "driving_concept_rank": -1,
     "recent_announcements": [
@@ -117,7 +117,7 @@
     "name": "百普赛斯",
     "board": "创业板",
     "today_high": 141.07,
-    "prev_ath": 135.0,
+    "prev_ath": 141.07,
     "prev_ath_date": "2026-09-23",
     "now_price": 141.07,
     "close_yesterday": 123.0,
@@ -157,7 +157,7 @@
     "broke_ma10_after_ath": false,
     "broke_ma20_after_ath": false,
     "industry": "其他生物制品",
-    "concept": "CAR-T细胞疗法/医药医疗风格/百日新高 /历史新高 /近期新高",
+    "concept": "CAR-T细胞疗法/题材股/医药医疗风格/百日新高 /历史新高 ",
     "driving_concept": "百日新高",
     "driving_concept_rank": -1,
     "recent_announcements": [
@@ -170,7 +170,7 @@
     "name": "益诺思",
     "board": "科创板",
     "today_high": 107.99,
-    "prev_ath": 105.5,
+    "prev_ath": 107.99,
     "prev_ath_date": "2026-09-23",
     "now_price": 105.2,
     "close_yesterday": 96.8,
@@ -210,9 +210,9 @@
     "broke_ma10_after_ath": false,
     "broke_ma20_after_ath": false,
     "industry": "医疗服务",
-    "concept": "CAR-T细胞疗法/CRO/基金重仓/百日新高 /历史新高 ",
-    "driving_concept": "百日新高",
-    "driving_concept_rank": -1,
+    "concept": "CAR-T细胞疗法/CRO/基金重仓/趋势股/百日新高 ",
+    "driving_concept": "趋势股",
+    "driving_concept_rank": 8,
     "recent_announcements": []
   },
   {
@@ -221,7 +221,7 @@
     "name": "奥士康",
     "board": "主板",
     "today_high": 98.18,
-    "prev_ath": 91.82,
+    "prev_ath": 98.18,
     "prev_ath_date": "2026-09-23",
     "now_price": 92.3,
     "close_yesterday": 91.08,
@@ -278,7 +278,7 @@
     "name": "青岛港",
     "board": "主板",
     "today_high": 10.3,
-    "prev_ath": 10.09,
+    "prev_ath": 10.3,
     "prev_ath_date": "2025-04-30",
     "now_price": 10.06,
     "close_yesterday": 10.09,
@@ -332,7 +332,7 @@
     "name": "汇创达",
     "board": "创业板",
     "today_high": 67.73,
-    "prev_ath": 67.33,
+    "prev_ath": 67.73,
     "prev_ath_date": "2026-09-21",
     "now_price": 60.97,
     "close_yesterday": 66.43,
@@ -389,7 +389,7 @@
     "name": "中国银行",
     "board": "主板",
     "today_high": 6.79,
-    "prev_ath": 6.73,
+    "prev_ath": 6.79,
     "prev_ath_date": "2026-09-03",
     "now_price": 6.73,
     "close_yesterday": 6.65,
@@ -432,7 +432,9 @@
     "concept": "区块链/证金持股/互联网金融/央视50_/机构重仓",
     "driving_concept": "区块链",
     "driving_concept_rank": -1,
-    "recent_announcements": []
+    "recent_announcements": [
+      "[2026-10-01] H股公告-截至二零二六年九月三十日止之股份发行人的证券变动月报表"
+    ]
   },
   {
     "code": "601398",
@@ -440,7 +442,7 @@
     "name": "工商银行",
     "board": "主板",
     "today_high": 8.3,
-    "prev_ath": 8.29,
+    "prev_ath": 8.3,
     "prev_ath_date": "2026-09-02",
     "now_price": 8.28,
     "close_yesterday": 8.16,
@@ -484,11 +486,11 @@
     "driving_concept": "区块链",
     "driving_concept_rank": -1,
     "recent_announcements": [
-      "[2026-09-16] 工商银行关于境内优先股“工行优2”股息派发实施的公告",
       "[2026-09-25] 工商银行H股公告-2026中期报告",
       "[2026-09-29] 工商银行关于境外无固定期限资本债券赎回完成的公告",
       "[2026-09-30] 工商银行2026年第二次临时股东会决议公告",
-      "[2026-09-30] 北京市金杜律师事务所关于中国工商银行股份有限公司2026年第二次临时股东会之法律意见书"
+      "[2026-09-30] 北京市金杜律师事务所关于中国工商银行股份有限公司2026年第二次临时股东会之法律意见书",
+      "[2026-10-01] 工商银行H股公告(证券变动月报表)"
     ]
   }
 ]

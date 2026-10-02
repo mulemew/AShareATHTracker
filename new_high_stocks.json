@@ -47,7 +47,7 @@
     "industry": "IT服务Ⅲ",
     "concept": "智慧政务/华为概念/人工智能/智慧城市/物联网",
     "driving_concept": "华为概念",
-    "driving_concept_rank": 7,
+    "driving_concept_rank": -1,
     "recent_announcements": [
       "[2026-09-30] 关于股票交易异常波动的公告",
       "[2026-09-24] 关于持股5%以上股东终止一致行动关系暨披露权益变动报告书的提示性公告",
@@ -211,8 +211,8 @@
     "broke_ma20_after_ath": false,
     "industry": "医疗服务",
     "concept": "CAR-T细胞疗法/CRO/基金重仓/趋势股/百日新高 ",
-    "driving_concept": "趋势股",
-    "driving_concept_rank": 8,
+    "driving_concept": "百日新高",
+    "driving_concept_rank": -1,
     "recent_announcements": []
   },
   {
@@ -263,7 +263,7 @@
     "industry": "元件",
     "concept": "PCB/华为概念/小米概念/5G概念/机构重仓",
     "driving_concept": "华为概念",
-    "driving_concept_rank": 7,
+    "driving_concept_rank": -1,
     "recent_announcements": [
       "[2026-09-22] 2026年9月22日投资者关系活动记录表",
       "[2026-09-23] 奥士康科技股份有限公司向不特定对象发行可转换公司债券发行提示性公告",
@@ -319,8 +319,8 @@
     "broke_ma20_after_ath": false,
     "industry": "航运港口",
     "concept": "华为概念/区块链/AH股/趋势股/百日新高 ",
-    "driving_concept": "华为概念",
-    "driving_concept_rank": 7,
+    "driving_concept": "百日新高",
+    "driving_concept_rank": -1,
     "recent_announcements": [
       "[2026-09-22] H股公告(公告有關股權出售之關連交易)",
       "[2026-09-22] 青岛港国际股份有限公司第五届董事会第九次会议决议公告"
@@ -374,7 +374,7 @@
     "industry": "面板",
     "concept": "储能概念/新能源车/无线耳机/华为概念/小米概念",
     "driving_concept": "华为概念",
-    "driving_concept_rank": 7,
+    "driving_concept_rank": -1,
     "recent_announcements": [
       "[2026-09-23] 关于召开2026年第一次临时股东会的通知",
       "[2026-09-23] 第四届董事会第十三次会议决议公告",
